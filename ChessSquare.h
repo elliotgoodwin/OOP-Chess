@@ -1,6 +1,6 @@
 // ChessSquare.h
 // A header file that contains the chess square class
-// Elliot Goodwin - 9621958
+// Elliot Goodwin
 // 10/05/2019
 
 // Chess includes
