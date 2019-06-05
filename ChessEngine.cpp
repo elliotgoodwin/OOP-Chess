@@ -1,6 +1,6 @@
 // ChessEngine.cpp
 // A .cpp file containing the game engine for object-oriented chess
-// Elliot Goodwin - 9621958
+// Elliot Goodwin
 // 10/05/2019
 
 // C++ STL includes
