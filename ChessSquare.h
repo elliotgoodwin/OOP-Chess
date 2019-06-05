@@ -18,7 +18,7 @@ namespace Chess {
 	// private members
 	private:
 		Piece *square_piece;  // Pointer to piece occupying square
-		std::string colour;   // Strig identifying colour of piece occupying square
+		std::string colour;   // String identifying colour of piece occupying square
 
 	public:
 		// Default constructor
