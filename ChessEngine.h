@@ -1,6 +1,6 @@
 // ChessEngine.h
 // A header file containing the game engine for object-oriented chess
-// Elliot Goodwin - 9621958
+// Elliot Goodwin
 // 10/05/2019
 
 
@@ -28,8 +28,6 @@ namespace Chess {
 	bool isPiece(char a);
 
 	// Parses move info (piece, coords, capture) and appends to a vector
-	// This hasn't been used in the program (instead I did this explictly in every bool function below)
-	// I understand that the method implemented in the program is less computationally efficient than using a method such as that in getMoveInfo
 	std::vector<std::string> getMoveInfo(std::string player_move);
 
 	// Parses string stream to check that user has valid input format
