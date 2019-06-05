@@ -1,6 +1,6 @@
 // ChessPieces.cpp
 // A .cpp file that contains the derived classes for each chess piece
-// Elliot Goodwin - 9621958
+// Elliot Goodwin
 // 10/05/2019
 
 // Chess includes
