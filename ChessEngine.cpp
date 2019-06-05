@@ -73,8 +73,6 @@ namespace Chess {
 	}
 
 	// Parses move info (piece, coords, capture) and appends to a vector
-	// This hasn't been used in the program (instead I did this explictly in every bool function below)
-	// I understand that the method implemented in the program is less efficient than using getMoveInfo
 	std::vector<std::string> getMoveInfo(std::string player_move)
 	{
 		std::vector <std::string> moveVector;
