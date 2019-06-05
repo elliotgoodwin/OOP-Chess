@@ -1,6 +1,6 @@
 // ChessPlayers.h
 // A header file that contains the types of players in the game (human or computer)
-// Elliot Goodwin - 9621958
+// Elliot Goodwin
 // 10/05/2019
 
 // C++ STL includes
