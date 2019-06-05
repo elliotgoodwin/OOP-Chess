@@ -1,6 +1,6 @@
 // Pieces.h
 // A header file that contains an abstract base class for a generic chess piece, and derived classes for each chess piece
-// Elliot Goodwin - 9621958
+// Elliot Goodwin
 // 10/05/2019
 
 // C++ STL includes
