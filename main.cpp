@@ -19,7 +19,7 @@ using namespace Chess;
 
 int main() {
 
-	// Play a game of chess!
+  // Play a game of chess!
   // playGame() definition at l. 1067-1146 in GameEngine.cpp
   playGame();
 
