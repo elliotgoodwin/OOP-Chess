@@ -1,8 +1,8 @@
 # OOP-Chess
 All code containing class structure and game engine for a game of object-oriented chess
 
-Follow the instructions to initialise a game of chess
-Moves input in the format YA7(x)A6
+Follow the instructions to initialise a game of chess.
+Moves input in the format YA7(x)A6, where
 
     Y   - Chess piece in standard chess algebraic notation https://en.wikipedia.org/wiki/Algebraic_notation_(chess)
   
