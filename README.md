@@ -12,10 +12,14 @@ Moves input in the format YA7(x)A6, where
         B - Bishop
         Q - Queen
         K - King
-  
+        
+    x   - Optional character to indicate a capture
     A7  - Inital board coordinate
     A6  - Final board coordinate
-    x   - Optional character to indicate a capture
+    
+    Letter coordinates - [A, B, C, D, E, F, G, H]
+    Number coordinates = [1, 2, 3, 4, 5, 6, 7, 8]
+    
   
 n.b Even legal captures will be deemed illegal if the x notation is not used
 
