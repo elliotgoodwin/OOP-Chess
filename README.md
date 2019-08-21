@@ -18,7 +18,7 @@ Moves input in the format YA7(x)A6, where
     A6  - Final board coordinate
     
     Letter coordinates - [A, B, C, D, E, F, G, H]
-    Number coordinates = [1, 2, 3, 4, 5, 6, 7, 8]
+    Number coordinates - [1, 2, 3, 4, 5, 6, 7, 8]
     
   
 n.b Even legal captures will be deemed illegal if the x notation is not used
